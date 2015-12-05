@@ -3,7 +3,7 @@ title: Gabriel Oliva
 header-img: img/home-bg.jpg
 email: gfpoliva@gmail.com
 description: "Personal blog"
-baseurl: "/gabrieloliva-webpage"
+baseurl:
 url: "http://gabrieloliva.github.io"
 twitter_username: gabrieloliva_
 github_username:  gabrieloliva
